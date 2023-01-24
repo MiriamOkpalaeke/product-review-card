@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Hub Repo](https://github.com/MiriamOkpalaeke/product-review-card)
+- Live Site URL: [live page](https://miriam-product-review-card-challenge.netlify.app)
 
 ## My process
 
@@ -77,4 +77,4 @@ I learnt how to add two different images and allow one appear in mobile and the 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MiriamOkpalaeke)
+- Frontend Mentor - [@MiriamOkpalaeke](https://www.frontendmentor.io/profile/MiriamOkpalaeke)
